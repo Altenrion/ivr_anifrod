@@ -1,0 +1,5 @@
+# exclude everything
+log_scanner/tmp/*
+
+# exception to the rule
+!log_scanner/tmp/.gitkeep
